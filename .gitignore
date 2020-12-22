@@ -271,3 +271,4 @@ TAGS
 
 # bazel symlinks
 bazel-*
+.idea
